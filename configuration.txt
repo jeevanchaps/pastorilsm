@@ -1,0 +1,7 @@
+1. Upload this folder to the root directory.
+2. Create database = "spaceapps".
+3. Import the database provided in this folder.
+4. Go to admin folder then => includes folder => apply.php
+5. In this 'apply.php' file change the port number in SITEURL constant. default is 80 but our app contains port 81.
+
+THANK YOU
